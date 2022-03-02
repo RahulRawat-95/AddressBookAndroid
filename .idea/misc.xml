@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/compose-model-1641670591435.xml" value="0.13513513513513514" />
+        <entry key="../../../../../../layout/compose-model-1641715501032.xml" value="0.23148148148148148" />
+        <entry key="../../../../../../layout/compose-model-1641728555522.xml" value="1.0" />
+        <entry key="../../../../../../layout/compose-model-1642255708141.xml" value="0.2657407407407407" />
+        <entry key="../../../../../../layout/compose-model-1642337251708.xml" value="0.1" />
+        <entry key="../../../../../../layout/compose-model-1642755641634.xml" value="0.11852006688963211" />
+        <entry key="../../../../../../layout/compose-model-1642771160635.xml" value="0.11852006688963211" />
+        <entry key="../../../../../../layout/compose-model-1642774216723.xml" value="0.1" />
+        <entry key="../../../../../../layout/compose-model-1642840489013.xml" value="0.11831103678929766" />
+        <entry key="../../../../../../layout/compose-model-1642843545274.xml" value="0.11810200668896322" />
+        <entry key="../../../../../../layout/compose-model-1642843660028.xml" value="0.125" />
+        <entry key="../../../../Library/Android/sdk/platforms/android-31/data/res/drawable/btn_plus.xml" value="0.15625" />
+        <entry key="app/src/main/res/drawable/ic_plus.xml" value="0.15625" />
+        <entry key="app/src/main/res/drawable/ic_popup.xml" value="0.2657407407407407" />
+        <entry key="app/src/main/res/drawable/icon_splash.xml" value="0.15625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
